@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Software Engineer at Biz2X. <br>I am proficient in Java with Spring Boot and Angular, <br>and I have solved over 900 problems on LeetCode. <br>I have a strong grasp of core computer science fundamentals <br>and enjoy solving real-world problems by applying my software development expertise.
+I am currently working as a Software Engineer at Biz2X. <br>I am proficient in Java (Spring Boot) and Angular, <br>and I have solved over 1000 problems on LeetCode. <br>I have a strong grasp of core computer science fundamentals <br>and enjoy solving real-world problems by applying my software development expertise.
 
 
 ## 🌐 Socials:
